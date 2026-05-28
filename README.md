@@ -16,7 +16,9 @@ A responsive and user-friendly weather application built using **HTML, CSS, and 
 * HTML5
 * CSS3
 * JavaScript (ES6)
+* Python
 * OpenWeather API
+
 
 ## 📂 Project Structure
 
